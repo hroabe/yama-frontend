@@ -10,6 +10,8 @@
 このプロジェクトは [Create React App](https://github.com/facebook/create-react-app)
 をベースに作成されています.
 
+<img src="docs/app.png" alt="メイン画面" width="800"/>
+
 ## 起動方法
 
 
