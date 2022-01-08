@@ -14,7 +14,7 @@ let DefaultIcon = L.icon({
 L.Marker.prototype.options.icon = DefaultIcon;
 
 function App() {
-  const url = "http://localhost:8080"
+  const url = "https://opendata.yamanashi.dev/api/yama"
   const position = new LatLng(35.667160, 138.568993);
 
   const [yamalist, setYamaList] = useState<Array<{[key: string]: string}>>([])
