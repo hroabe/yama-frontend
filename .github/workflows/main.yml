@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: サイトのビルド・公開
 
 on:
   push:
